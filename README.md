@@ -1,4 +1,10 @@
-# Back-End-Developer-Capstone
+# Coursera Back-End-Developer-Capstone
+
+- [Coursera Back-End-Developer-Capstone](#coursera-back-end-developer-capstone)
+  - [Setup](#setup)
+  - [Tests](#tests)
+  - [RunServer](#runserver)
+  - [API Endpoints](#api-endpoints)
 
 ## Setup
 
@@ -22,4 +28,3 @@
 ## API Endpoints
 
 - Check readme.txt for more details
-- 
